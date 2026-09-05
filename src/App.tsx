@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="site">
       <header className="navbar">
-        <a href="/" className="logo">
+        <a href="/portfolio/" className="logo">
           Muhammed Abdulla
         </a>
 
@@ -124,7 +124,7 @@ function App() {
 
               <div className="work-header-links">
                 <a
-                  href="/work/checkmate"
+                  href="/portfolio/work/checkmate"
                   target="_blank"
                   rel="noreferrer"
                   className="text-link"

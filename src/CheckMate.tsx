@@ -21,7 +21,7 @@ function CheckMate() {
   return (
     <div className="checkmate-page">
       <header className="navbar">
-        <a href="/" className="logo">
+        <a href="/portfolio/" className="logo">
           Muhammed Abdulla
         </a>
 
@@ -271,7 +271,7 @@ function CheckMate() {
         </section>
 
         <section className="case-next">
-          <a href="/#work">← Back to selected work</a>
+          <a href="/portfolio/#work">← Back to selected work</a>
         </section>
       </main>
 
