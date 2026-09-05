@@ -7,7 +7,7 @@ import CheckMate from './CheckMate.tsx'
 
 const path = window.location.pathname
 
-const Page = path === '/work/checkmate' ? CheckMate : App
+const Page = path === '/portfolio/work/checkmate' ? CheckMate : App
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
