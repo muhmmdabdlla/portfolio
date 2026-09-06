@@ -125,8 +125,6 @@ function App() {
               <div className="work-header-links">
                 <a
                   href="/portfolio/work/checkmate"
-                  target="_blank"
-                  rel="noreferrer"
                   className="text-link"
                 >
                   View Case Study →
