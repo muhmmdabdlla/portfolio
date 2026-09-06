@@ -26,16 +26,16 @@ function CheckMate() {
         </a>
 
         <nav className={`nav-links ${menuOpen ? 'open' : ''}`}>
-          <a href="/#work" onClick={() => setMenuOpen(false)}>
+          <a href="/portfolio/#work" onClick={() => setMenuOpen(false)}>
             Work
           </a>
-          <a href="/#about" onClick={() => setMenuOpen(false)}>
+          <a href="/portfolio/#about" onClick={() => setMenuOpen(false)}>
             About
           </a>
-          <a href="/#skills" onClick={() => setMenuOpen(false)}>
+          <a href="/portfolio/#skills" onClick={() => setMenuOpen(false)}>
             Skills
           </a>
-          <a href="/#contact" onClick={() => setMenuOpen(false)}>
+          <a href="/portfolio/#contact" onClick={() => setMenuOpen(false)}>
             Contact
           </a>
         </nav>
