@@ -55,7 +55,7 @@ function CheckMate() {
 
       <main>
         <section className="case-hero">
-          <p className="case-eyebrow">01 — CHECKMATE</p>
+          <p className="case-eyebrow">01 CHECKMATE</p>
 
           <h1>
             Project validation
@@ -108,7 +108,7 @@ function CheckMate() {
         </section>
 
         <section className="case-section">
-          <div className="case-label">03 — THE IDEA</div>
+          <div className="case-label">03 THE IDEA</div>
 
           <div className="case-content">
             <h2>
@@ -129,7 +129,7 @@ function CheckMate() {
         </section>
 
         <section className="case-section">
-          <div className="case-label">04 — VALIDATION SYSTEM</div>
+          <div className="case-label">04 VALIDATION SYSTEM</div>
 
           <div className="case-content">
             <h2>
@@ -164,7 +164,7 @@ function CheckMate() {
         </section>
 
         <section className="case-section">
-          <div className="case-label">05 — FEATURES</div>
+          <div className="case-label">05 FEATURES</div>
 
           <div className="case-content">
             <h2>
@@ -213,7 +213,7 @@ function CheckMate() {
         </section>
 
         <section className="case-section">
-          <div className="case-label">06 — RESULT</div>
+          <div className="case-label">06 RESULT</div>
 
           <div className="case-content">
             <h2>
