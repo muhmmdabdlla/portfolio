@@ -87,7 +87,7 @@ function CheckMate() {
         </section>
 
         <section className="case-section">
-          <div className="case-label">02 — THE PROBLEM</div>
+          <div className="case-label">02 THE PROBLEM</div>
 
           <div className="case-content">
             <h2>
