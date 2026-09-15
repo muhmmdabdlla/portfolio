@@ -1,4 +1,4 @@
-# Muhammed Abdulla — Portfolio
+# Muhammed Abdulla | Portfolio
 
 Personal portfolio website of Muhammed Abdulla, a developer and builder exploring technology through projects, experiments, and creative development.
 
