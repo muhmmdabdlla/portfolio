@@ -1,32 +1,73 @@
-# React + TypeScript + Vite
+# Muhammed Abdulla — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Personal portfolio website of Muhammed Abdulla, a developer and builder exploring technology through projects, experiments, and creative development.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I'm a developer and builder interested in creating practical things with technology.
 
-## React Compiler
+I experiment with different areas of development, turn ideas into working projects, and explore whatever comes next.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+> Still early in the journey. Already building.
 
-## Expanding the Oxlint configuration
+## Featured Work
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+### CheckMate
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+A Blender add-on designed to help artists validate their projects before rendering, exporting, or delivery.
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+**Built with:**
+- Python
+- Blender Python API
+
+**Blender:** 4.0+
+
+[View CheckMate on GitHub](https://github.com/amstudio-in/CheckMate)
+
+[View latest release](https://github.com/amstudio-in/CheckMate/releases/latest)
+
+## Experience
+
+### Artiy Apps
+
+Designed and developed a website for a small handmade-gift business, taking the project from concept to a deployed website.
+
+[Visit Artiy Apps](https://artiyapps.pages.dev/)
+
+## Technologies
+
+### Languages
+HTML · CSS · JavaScript · TypeScript · Python · C++ · Java · Dart · SQL · C / Embedded C
+
+### Development
+React · Flutter · Node.js · Android Development
+
+### Tools
+Vite · npm · Git · GitHub · VS Code · Firebase · JSON
+
+### 3D & Creative Development
+Blender · Blender Python API
+
+### AI & Local Development
+LM Studio · Local AI · AI-assisted Development · AI APIs
+
+### Deployment
+GitHub Pages · Cloudflare Pages
+
+## Website
+
+Visit the portfolio:
+
+https://muhmmdabdlla.github.io/portfolio/
+
+## Connect
+
+- GitHub: https://github.com/muhmmdabdlla
+- LinkedIn: https://www.linkedin.com/in/muhammed-abdulla-8ab528373
+- Instagram: https://www.instagram.com/muhm_d__
+- X: https://x.com/muhmd_abdlla
+- Threads: https://www.threads.com/@muhm_d__
+
+## License
+
+This project is the personal portfolio of Muhammed Abdulla.
